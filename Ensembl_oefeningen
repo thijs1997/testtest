@@ -1,0 +1,4 @@
+Question 12
+curl 'http://rest.ensembl.org/variation/zebrafish/rs499899635?' -H 'Content-type:application/json'
+question13
+curl 'https://rest.ensembl.org/sequence/region/mouse/X:1000000..1000100:100?' -H 'Content-type:text/X-fasta'
